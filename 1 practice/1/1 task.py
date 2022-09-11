@@ -1,0 +1,6 @@
+name = str(input('Your last name, first name?'))
+age = int(input('How old are you?'))
+number = int(input('Your phone number?'))
+print(name)
+print(age)
+print(number)
